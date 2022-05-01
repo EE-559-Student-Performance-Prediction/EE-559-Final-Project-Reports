@@ -1,0 +1,1872 @@
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 2.245398773006135, MAE: 1.1042944785276074, R2 Score: -0.5245323520392515
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.071421226749391, MAE: 0.8393277595379601, R2 Score: 0.27254956113910445
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.069408744190759, MAE: 0.8392388450041999, R2 Score: 0.2739159530715457
+Model Parameters: {'best_score': 0.18852178825289492, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.1087259185938125, MAE: 0.8656389636465569, R2 Score: 0.24722122735564234
+Model Parameters: {'best_score': 0.20838687075093434, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.3483512269938651, MAE: 0.9478527607361963, R2 Score: 0.08452561203107445
+Model Parameters: {'best_score': 0.025071172206444347, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.2911313303240635, MAE: 0.9035981788679276, R2 Score: 0.12337554136307782
+Model Parameters: {'best_score': 0.09295692555630716, 'best_params': {'alpha': 0.001, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.0329933446353732, MAE: 0.8341477227039789, R2 Score: 0.2986404943877843
+Model Parameters: {'best_score': 0.22767004570213797, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 2.1901840490797544, MAE: 1.147239263803681, R2 Score: -0.4870438515792701
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.0668900378642638, MAE: 0.8372315950920245, R2 Score: 0.27562604988205
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.071292610718926, MAE: 0.8401797792976314, R2 Score: 0.2726368860730056
+Model Parameters: {'best_score': 0.19422907639728676, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.1417843738564488, MAE: 0.8786526578575947, R2 Score: 0.22477591155596477
+Model Parameters: {'best_score': 0.21503165836596622, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.2847009202453987, MAE: 0.9555214723926381, R2 Score: 0.12774152228355318
+Model Parameters: {'best_score': 0.10197659919095306, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.0582146226253988, MAE: 0.8224837302675367, R2 Score: 0.28151629590784477
+Model Parameters: {'best_score': 0.17889332643319694, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.0358326366432293, MAE: 0.835574626734696, R2 Score: 0.2967127332368916
+Model Parameters: {'best_score': 0.22775988411167206, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 2.4171779141104293, MAE: 1.1533742331288344, R2 Score: -0.6411632423591944
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.0449658698145652, MAE: 0.8297361101888847, R2 Score: 0.2905116478814479
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.0419235056712473, MAE: 0.8388467707040523, R2 Score: 0.29257728656395365
+Model Parameters: {'best_score': 0.22847994093215424, 'best_params': {'alpha': 0.1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.0751263204145483, MAE: 0.8461419439028939, R2 Score: 0.2700339566826605
+Model Parameters: {'best_score': 0.19841686710187517, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.3447085889570551, MAE: 0.946319018404908, R2 Score: 0.08699881171419821
+Model Parameters: {'best_score': 0.0735767726478457, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.383305013388874, MAE: 1.0059414655300025, R2 Score: 0.06079344524356056
+Model Parameters: {'best_score': 0.0247532036686851, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.0620177935546877, MAE: 0.8356700284139209, R2 Score: 0.27893410106934224
+Model Parameters: {'best_score': 0.18861580440611767, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.4294478527607364, MAE: 1.1533742331288344, R2 Score: -0.6494940202391903
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0716931198272237, MAE: 0.8382605804256135, R2 Score: 0.272364957050764
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0688818689634585, MAE: 0.8384750020632008, R2 Score: 0.27427367943140846
+Model Parameters: {'best_score': 0.19605219076992642, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0771090748862493, MAE: 0.8569502029071006, R2 Score: 0.2686877488844742
+Model Parameters: {'best_score': 0.2073670226737238, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.4140145705521472, MAE: 0.9716257668711656, R2 Score: 0.039942933532658764
+Model Parameters: {'best_score': 0.0635551450691301, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.220249269764861, MAE: 0.8824102144493275, R2 Score: 0.17150151159198124
+Model Parameters: {'best_score': 0.1093276998770037, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0351081501610566, MAE: 0.8330726629963969, R2 Score: 0.2972046294176349
+Model Parameters: {'best_score': 0.2190792771899453, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.2208588957055215, MAE: 1.1533742331288344, R2 Score: -0.5078707962792599
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0718363937150481, MAE: 0.8383482014474694, R2 Score: 0.27226768004152324
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0706230677859996, MAE: 0.8394365569367904, R2 Score: 0.2730914778696152
+Model Parameters: {'best_score': 0.20126331074735893, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.133167177141352, MAE: 0.8725529066613459, R2 Score: 0.23062662962617342
+Model Parameters: {'best_score': 0.2081625769225374, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.2622699386503067, MAE: 0.9248466257668712, R2 Score: 0.14297122559542075
+Model Parameters: {'best_score': 0.13130248550725734, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0440153864261346, MAE: 0.8159847836430627, R2 Score: 0.29115698655944067
+Model Parameters: {'best_score': 0.16325143616147197, 'best_params': {'alpha': 0.001, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.035706385852594, MAE: 0.8329546926562736, R2 Score: 0.29679845227134927
+Model Parameters: {'best_score': 0.22497180201295155, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.331288343558282, MAE: 1.0920245398773005, R2 Score: -0.582847797199223
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0458796579484346, MAE: 0.8270576658810562, R2 Score: 0.2898912237546776
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.037211130719257, MAE: 0.8367938481546758, R2 Score: 0.29577679310845495
+Model Parameters: {'best_score': 0.234905990157724, 'best_params': {'alpha': 0.1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0464101805087613, MAE: 0.8341271178995594, R2 Score: 0.28953102100742933
+Model Parameters: {'best_score': 0.2074686105143873, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.4169861963190185, MAE: 1.0046012269938651, R2 Score: 0.03792532326484732
+Model Parameters: {'best_score': 0.08404773424842071, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.419671558808982, MAE: 1.0207891536322258, R2 Score: 0.036102073852707695
+Model Parameters: {'best_score': 0.01043289374213836, 'best_params': {'alpha': 0.0001, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.051137943427331, MAE: 0.8283408873243858, R2 Score: 0.28632106667380264
+Model Parameters: {'best_score': 0.19186436137462637, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.1717791411042944, MAE: 1.0920245398773005, R2 Score: -0.4745476847592762
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0590784809170182, MAE: 0.8336125941478079, R2 Score: 0.2809297720667421
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0570643889943927, MAE: 0.8335668778798376, R2 Score: 0.28229725669038075
+Model Parameters: {'best_score': 0.21629151632487434, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0942770946277502, MAE: 0.8625408053679339, R2 Score: 0.2570313777173492
+Model Parameters: {'best_score': 0.21254625303011365, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.3362730061349692, MAE: 0.9524539877300614, R2 Score: 0.0927262215066954
+Model Parameters: {'best_score': 0.01597221100786319, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0733984927635538, MAE: 0.8235439645559197, R2 Score: 0.2712070797752515
+Model Parameters: {'best_score': 0.0384339689010522, 'best_params': {'alpha': 0.001, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0491675911574188, MAE: 0.8390254593778562, R2 Score: 0.2876588538929403
+Model Parameters: {'best_score': 0.22501220745169048, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.4478527607361964, MAE: 1.2085889570552146, R2 Score: -0.6619901870591842
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0590784809170202, MAE: 0.8336125941478082, R2 Score: 0.28092977206674064
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0595803965201671, MAE: 0.8345691248794442, R2 Score: 0.28058899225328837
+Model Parameters: {'best_score': 0.2206133380369634, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.1622454665485207, MAE: 0.8843001756956483, R2 Score: 0.21088368085639264
+Model Parameters: {'best_score': 0.22408830238289204, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.2338957055214723, MAE: 0.9248466257668712, R2 Score: 0.1622361494429112
+Model Parameters: {'best_score': 0.10337453718695619, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0282309809100278, MAE: 0.8139093150859733, R2 Score: 0.3018739412297218
+Model Parameters: {'best_score': 0.15008197955178393, 'best_params': {'alpha': 0.001, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0485470717718786, MAE: 0.8367715358198123, R2 Score: 0.28808016074039056
+Model Parameters: {'best_score': 0.2233712702993454, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.312883435582822, MAE: 1.147239263803681, R2 Score: -0.5703516303792291
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0262816199589926, MAE: 0.8158550529234487, R2 Score: 0.3031974762166393
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0363918692003184, MAE: 0.834223111083481, R2 Score: 0.2963330375962573
+Model Parameters: {'best_score': 0.2397394229490999, 'best_params': {'alpha': 0.1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0750093849738203, MAE: 0.8432346076655701, R2 Score: 0.27011335098207534
+Model Parameters: {'best_score': 0.21040935479353076, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.2593728698023177, MAE: 0.9263803680981595, R2 Score: 0.14493821481708646
+Model Parameters: {'best_score': 0.07755787883227919, 'best_params': {'n_neighbors': 6}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.40087902919571, MAE: 1.0117310142733018, R2 Score: 0.048861419638638104
+Model Parameters: {'best_score': 0.019398264149817844, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0605302148612943, MAE: 0.8331313896693654, R2 Score: 0.27994410511474677
+Model Parameters: {'best_score': 0.1774632107234355, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.245398773006135, MAE: 1.1042944785276074, R2 Score: -0.5245323520392515
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.071421226749391, MAE: 0.8393277595379601, R2 Score: 0.27254956113910445
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.069408744190759, MAE: 0.8392388450041999, R2 Score: 0.2739159530715457
+Model Parameters: {'best_score': 0.18852178825289492, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1087259185938125, MAE: 0.8656389636465569, R2 Score: 0.24722122735564234
+Model Parameters: {'best_score': 0.20838687075093434, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.3483512269938651, MAE: 0.9478527607361963, R2 Score: 0.08452561203107445
+Model Parameters: {'best_score': 0.025071172206444347, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1482738041115215, MAE: 0.8617371546884786, R2 Score: 0.2203698583911119
+Model Parameters: {'best_score': 0.04659957069811323, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0353372403985952, MAE: 0.8344832148256953, R2 Score: 0.29704908667713703
+Model Parameters: {'best_score': 0.22940616656435298, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.1901840490797544, MAE: 1.147239263803681, R2 Score: -0.4870438515792701
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0668900378642638, MAE: 0.8372315950920245, R2 Score: 0.27562604988205
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.071292610718926, MAE: 0.8401797792976314, R2 Score: 0.2726368860730056
+Model Parameters: {'best_score': 0.19422907639728676, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1417843738564488, MAE: 0.8786526578575947, R2 Score: 0.22477591155596477
+Model Parameters: {'best_score': 0.21503165836596622, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.2847009202453987, MAE: 0.9555214723926381, R2 Score: 0.12774152228355318
+Model Parameters: {'best_score': 0.10197659919095306, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0586137977975913, MAE: 0.8245386289457167, R2 Score: 0.28124527257272314
+Model Parameters: {'best_score': 0.17979643003369428, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0332657527600597, MAE: 0.8340547420592245, R2 Score: 0.29845554060405743
+Model Parameters: {'best_score': 0.226729225913111, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.4171779141104293, MAE: 1.1533742331288344, R2 Score: -0.6411632423591944
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0449658698145652, MAE: 0.8297361101888847, R2 Score: 0.2905116478814479
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0419235056712473, MAE: 0.8388467707040523, R2 Score: 0.29257728656395365
+Model Parameters: {'best_score': 0.22847994093215424, 'best_params': {'alpha': 0.1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0751263204145483, MAE: 0.8461419439028939, R2 Score: 0.2700339566826605
+Model Parameters: {'best_score': 0.19841686710187517, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.3447085889570551, MAE: 0.946319018404908, R2 Score: 0.08699881171419821
+Model Parameters: {'best_score': 0.0735767726478457, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.3883528343802511, MAE: 1.0085249464363246, R2 Score: 0.05736618479380329
+Model Parameters: {'best_score': 0.022080497614778104, 'best_params': {'alpha': 0.001, 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0593850846418607, MAE: 0.8341438712672985, R2 Score: 0.28072160089314135
+Model Parameters: {'best_score': 0.18868639398316997, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 1
+Algorithm: TrivialRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.4744224329861433, MAE: 1.0409376656820417, R2 Score: -0.0010714919249932287
+Model Parameters: None
+
+Mission: 1
+Algorithm: OneNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 2.233128834355828, MAE: 1.1042944785276074, R2 Score: -0.5162015741592556
+Model Parameters: None
+
+Mission: 1
+Algorithm: LinearRegressionModel
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1180207282043717, MAE: 0.8687387205082681, R2 Score: 0.24091043831999526
+Model Parameters: None
+
+Mission: 1
+Algorithm: RidgeCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1171979303983053, MAE: 0.8685686833257115, R2 Score: 0.24146908379963794
+Model Parameters: {'best_score': 0.17272774857078382, 'best_params': {'alpha': 1}}
+
+Mission: 1
+Algorithm: SVMRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1307625183925785, MAE: 0.8731508183573983, R2 Score: 0.23225929287610103
+Model Parameters: {'best_score': 0.19177707116077614, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: KNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.3472009202453987, MAE: 0.9447852760736196, R2 Score: 0.08530662245732401
+Model Parameters: {'best_score': 0.02049977011953936, 'best_params': {'n_neighbors': 8}}
+
+Mission: 1
+Algorithm: SGDCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.2366333795144009, MAE: 0.9093225159369936, R2 Score: 0.16037738269656254
+Model Parameters: {'best_score': 0.19439586924664354, 'best_params': {'alpha': 0.0001, 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: GradientBoostingCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.268934431030687, MAE: 0.9187891447455105, R2 Score: 0.13844631253055517
+Model Parameters: {'best_score': 0.1703531695406642, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 2.2576687116564416, MAE: 1.0797546012269938, R2 Score: -0.43481796871262524
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.109459148228534, MAE: 0.8768422881518405, R2 Score: 0.2949045565401155
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.1073702922463304, MAE: 0.8762563250751354, R2 Score: 0.29623208882235186
+Model Parameters: {'best_score': 0.23548932977559192, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.1073142317647369, MAE: 0.8741729078157526, R2 Score: 0.2962677169842295
+Model Parameters: {'best_score': 0.22789783615475293, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.4567676380368098, MAE: 0.9884969325153374, R2 Score: 0.07417931935607314
+Model Parameters: {'best_score': 0.09011308389526199, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.9857712535877257, MAE: 1.1642219297655236, R2 Score: -0.2620187637318159
+Model Parameters: {'best_score': 0.10218650077822904, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.1276684925394274, MAE: 0.8744788156340326, R2 Score: 0.28333195765488084
+Model Parameters: {'best_score': 0.2511074249176681, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 2.263803680981595, MAE: 1.1717791411042944, R2 Score: -0.438716930584127
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.108533239072086, MAE: 0.874808282208589, R2 Score: 0.29549300031320247
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.110064614692854, MAE: 0.8778010257002249, R2 Score: 0.29451976396272206
+Model Parameters: {'best_score': 0.239402240328456, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.0757757879120797, MAE: 0.8468140323368989, R2 Score: 0.31631136896531475
+Model Parameters: {'best_score': 0.22865158334994976, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.3174846625766872, MAE: 0.9846625766871165, R2 Score: 0.1626979380950101
+Model Parameters: {'best_score': 0.13038778863107298, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.1398014749702308, MAE: 0.8736325072651073, R2 Score: 0.27562107380557654
+Model Parameters: {'best_score': 0.21771990147990933, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.12544818829026, MAE: 0.873842516039986, R2 Score: 0.2847430293574146
+Model Parameters: {'best_score': 0.2500858477365216, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 2.588957055214724, MAE: 1.2147239263803682, R2 Score: -0.6453619097737171
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.0945657953409351, MAE: 0.8712200981172837, R2 Score: 0.30436974079286916
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.1077067599096106, MAE: 0.8756149133352734, R2 Score: 0.29601825326416187
+Model Parameters: {'best_score': 0.2565571779264954, 'best_params': {'alpha': 0.1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.1107287818706808, MAE: 0.8680857923349174, R2 Score: 0.2940976652747901
+Model Parameters: {'best_score': 0.22935426750802224, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.451111963190184, MAE: 0.9693251533742331, R2 Score: 0.07777367483136377
+Model Parameters: {'best_score': 0.10466188811254973, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.4924820775398975, MAE: 1.0303132212389574, R2 Score: 0.05148169358088439
+Model Parameters: {'best_score': 0.03394914879406967, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.147892863428428, MAE: 0.8721253034916104, R2 Score: 0.2704787473465553
+Model Parameters: {'best_score': 0.22935727478328571, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.736196319018405, MAE: 1.2515337423312884, R2 Score: -0.7389369946897577
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1051531340998306, MAE: 0.8744485305130847, R2 Score: 0.29764116107978744
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1013503641390974, MAE: 0.8736430684231448, R2 Score: 0.3000579384583151
+Model Parameters: {'best_score': 0.23994658321578816, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1005857435348023, MAE: 0.874292534969038, R2 Score: 0.30054387839123164
+Model Parameters: {'best_score': 0.233498315052179, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.493769171779141, MAE: 0.9992331288343558, R2 Score: 0.050663705568578465
+Model Parameters: {'best_score': 0.105202127950799, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.163556895521977, MAE: 1.1833952012388542, R2 Score: -0.3750070123217579
+Model Parameters: {'best_score': 0.0908794101345014, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1096847095462778, MAE: 0.8566022823374349, R2 Score: 0.2947612053787718
+Model Parameters: {'best_score': 0.2586194096461122, 'best_params': {'learning_rate': 0.1, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.233128834355828, MAE: 1.1288343558282208, R2 Score: -0.4192221212266185
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1056986571820968, MAE: 0.8747214100843558, R2 Score: 0.2972944643670494
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.10366889158299, MAE: 0.8749525433028233, R2 Score: 0.2985844428917269
+Model Parameters: {'best_score': 0.24320059990167212, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0821099539901677, MAE: 0.8555641707306795, R2 Score: 0.3122858114250401
+Model Parameters: {'best_score': 0.22605606804299674, 'best_params': {'C': 0.1, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.2986004601226995, MAE: 0.9700920245398773, R2 Score: 0.1746994301057263
+Model Parameters: {'best_score': 0.14621011762978064, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.133242470497611, MAE: 0.8715891553257405, R2 Score: 0.27978952306723837
+Model Parameters: {'best_score': 0.2001434575632511, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1173134952275856, MAE: 0.8648091179313657, R2 Score: 0.2899128772257157
+Model Parameters: {'best_score': 0.25867958845389316, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.625766871165644, MAE: 1.2760736196319018, R2 Score: -0.6687556810027273
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.0915934495485142, MAE: 0.8696462463409067, R2 Score: 0.3062587580477807
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1017233609120858, MAE: 0.8768606501075908, R2 Score: 0.2998208875263547
+Model Parameters: {'best_score': 0.25598743585386047, 'best_params': {'alpha': 0.1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1108319121348311, MAE: 0.8696832639901355, R2 Score: 0.2940321228170518
+Model Parameters: {'best_score': 0.23385950994574264, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5300038343558282, MAE: 1.017638036809816, R2 Score: 0.02763546201502154
+Model Parameters: {'best_score': 0.11004231639398379, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5060001152235067, MAE: 1.034056820324756, R2 Score: 0.0428905644794203
+Model Parameters: {'best_score': 0.01645506036654958, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.1425189200540513, MAE: 0.872778697868353, R2 Score: 0.2738940537981127
+Model Parameters: {'best_score': 0.21712043705087022, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.3067484662576687, MAE: 1.165644171779141, R2 Score: -0.4660096636846389
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0990463959765921, MAE: 0.871638121754264, R2 Score: 0.30152218115337315
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0974242052488152, MAE: 0.871303294400385, R2 Score: 0.3025531333001058
+Model Parameters: {'best_score': 0.2544507481855797, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.1349563524721196, MAE: 0.8836392078611609, R2 Score: 0.2787002983104878
+Model Parameters: {'best_score': 0.242748200367791, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5551188650306749, MAE: 1.0237730061349692, R2 Score: 0.011674086853561527
+Model Parameters: {'best_score': 0.12338203250687096, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.2799307914321008, MAE: 0.8980765994700934, R2 Score: 0.18656457930537507
+Model Parameters: {'best_score': 0.17654687870930594, 'best_params': {'alpha': 0.001, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.1148327739466926, MAE: 0.8665852127494571, R2 Score: 0.2914894519688638
+Model Parameters: {'best_score': 0.26253394588006573, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.4662576687116564, MAE: 1.1901840490797546, R2 Score: -0.567382672343683
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0990463959765921, MAE: 0.871638121754264, R2 Score: 0.30152218115337304
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0989205877087236, MAE: 0.8726705813306804, R2 Score: 0.30160213618061804
+Model Parameters: {'best_score': 0.2576704730726308, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0963231042086334, MAE: 0.8652205734875401, R2 Score: 0.3032529169085971
+Model Parameters: {'best_score': 0.24871236169480868, 'best_params': {'C': 0.1, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.3765337423312884, MAE: 0.9877300613496932, R2 Score: 0.12517043008180628
+Model Parameters: {'best_score': 0.15178789660862685, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.1226948576808344, MAE: 0.8738723964546379, R2 Score: 0.28649285572113814
+Model Parameters: {'best_score': 0.20531082853400268, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.114092075453075, MAE: 0.8662918727813365, R2 Score: 0.2919601886640014
+Model Parameters: {'best_score': 0.26311323063598097, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 2.331288343558282, MAE: 1.1533742331288344, R2 Score: -0.48160551117064565
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.09037715052062, MAE: 0.8606924146312286, R2 Score: 0.3070317535238398
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.0945165285531724, MAE: 0.8699006146060301, R2 Score: 0.3044010513531731
+Model Parameters: {'best_score': 0.269289236106516, 'best_params': {'alpha': 0.1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.11256282570517, MAE: 0.8730149368609857, R2 Score: 0.2929320739568323
+Model Parameters: {'best_score': 0.2540929859410178, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.4655866564417177, MAE: 0.9915644171779141, R2 Score: 0.06857456166578946
+Model Parameters: {'best_score': 0.11086726283735253, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5027594761250738, MAE: 1.0301139812044346, R2 Score: 0.044950090389726416
+Model Parameters: {'best_score': 0.02593448859755203, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.1670993492453603, MAE: 0.8756262273359343, R2 Score: 0.25827243433717695
+Model Parameters: {'best_score': 0.2427694912816915, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.2576687116564416, MAE: 1.0797546012269938, R2 Score: -0.43481796871262524
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.109459148228534, MAE: 0.8768422881518405, R2 Score: 0.2949045565401155
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1073702922463304, MAE: 0.8762563250751354, R2 Score: 0.29623208882235186
+Model Parameters: {'best_score': 0.23548932977559192, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1073142317647369, MAE: 0.8741729078157526, R2 Score: 0.2962677169842295
+Model Parameters: {'best_score': 0.22789783615475293, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.4567676380368098, MAE: 0.9884969325153374, R2 Score: 0.07417931935607314
+Model Parameters: {'best_score': 0.09011308389526199, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5385378007288197, MAE: 1.04145418753507, R2 Score: 0.022211863666363185
+Model Parameters: {'best_score': 0.0982924194248302, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1261464448051584, MAE: 0.8741691204904716, R2 Score: 0.2842992658463317
+Model Parameters: {'best_score': 0.24839514546506375, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.263803680981595, MAE: 1.1717791411042944, R2 Score: -0.438716930584127
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.108533239072086, MAE: 0.874808282208589, R2 Score: 0.29549300031320247
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.110064614692854, MAE: 0.8778010257002249, R2 Score: 0.29451976396272206
+Model Parameters: {'best_score': 0.239402240328456, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0757757879120797, MAE: 0.8468140323368989, R2 Score: 0.31631136896531475
+Model Parameters: {'best_score': 0.22865158334994976, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.3174846625766872, MAE: 0.9846625766871165, R2 Score: 0.1626979380950101
+Model Parameters: {'best_score': 0.13038778863107298, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1420740286659592, MAE: 0.8676710165385569, R2 Score: 0.2741767959712511
+Model Parameters: {'best_score': 0.21683081768178036, 'best_params': {'alpha': 0.0001, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1267109063581484, MAE: 0.8744197382473826, R2 Score: 0.2839405331524266
+Model Parameters: {'best_score': 0.24803521030426873, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.588957055214724, MAE: 1.2147239263803682, R2 Score: -0.6453619097737171
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.0945657953409351, MAE: 0.8712200981172837, R2 Score: 0.30436974079286916
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1077067599096106, MAE: 0.8756149133352734, R2 Score: 0.29601825326416187
+Model Parameters: {'best_score': 0.2565571779264954, 'best_params': {'alpha': 0.1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1107287818706808, MAE: 0.8680857923349174, R2 Score: 0.2940976652747901
+Model Parameters: {'best_score': 0.22935426750802224, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.451111963190184, MAE: 0.9693251533742331, R2 Score: 0.07777367483136377
+Model Parameters: {'best_score': 0.10466188811254973, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.4951468175138696, MAE: 1.0309797114874324, R2 Score: 0.04978816929325913
+Model Parameters: {'best_score': 0.03048889057027069, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.1478229025475417, MAE: 0.8721310892601009, R2 Score: 0.2705232096401081
+Model Parameters: {'best_score': 0.22913604039444163, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 2
+Algorithm: TrivialRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 2
+Algorithm: OneNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 2.374233128834356, MAE: 1.1349693251533743, R2 Score: -0.5088982442711576
+Model Parameters: None
+
+Mission: 2
+Algorithm: LinearRegressionModel
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1286923645983584, MAE: 0.8861537518324674, R2 Score: 0.2826812554414727
+Model Parameters: None
+
+Mission: 2
+Algorithm: RidgeCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1281650288442335, MAE: 0.8862988780220141, R2 Score: 0.28301639354727914
+Model Parameters: {'best_score': 0.2083495385950287, 'best_params': {'alpha': 1}}
+
+Mission: 2
+Algorithm: SVMRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1795525886361853, MAE: 0.9111969574344946, R2 Score: 0.2503580173306509
+Model Parameters: {'best_score': 0.21123394762934827, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: KNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.4592599693251533, MAE: 0.9823619631901841, R2 Score: 0.07259536609577555
+Model Parameters: {'best_score': 0.0833578454742829, 'best_params': {'n_neighbors': 8}}
+
+Mission: 2
+Algorithm: SGDCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.1198645715737534, MAE: 0.8855715723364642, R2 Score: 0.2882915896727011
+Model Parameters: {'best_score': 0.23847337730049717, 'best_params': {'alpha': 0.001, 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: GradientBoostingCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.3444998804023414, MAE: 0.9739847127376869, R2 Score: 0.1455289355018463
+Model Parameters: {'best_score': 0.18940331644520075, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.558282208588957, MAE: 0.4723926380368098, R2 Score: 0.6451944696933454
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.2625521014621653, MAE: 0.37920506015145705, R2 Score: 0.8331400568399686
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.2618005920335207, MAE: 0.37881635794525326, R2 Score: 0.8336176642171312
+Model Parameters: {'best_score': 0.7940366842584472, 'best_params': {'alpha': 1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.19670276055489302, MAE: 0.3513280638445079, R2 Score: 0.874989340162107
+Model Parameters: {'best_score': 0.8321668998444098, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.24587806748466257, MAE: 0.38726993865030673, R2 Score: 0.8437369187437209
+Model Parameters: {'best_score': 0.7940772824632099, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 1.5139770769510074e+16, MAE: 95843369.7632117, R2 Score: -9621790402696100.0
+Model Parameters: {'best_score': -1.3586576247040998e+16, 'best_params': {'alpha': 0.001, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset
+Performance Measures: RMSE: 0.179774629604647, MAE: 0.3274884814860388, R2 Score: 0.885747688514427
+Model Parameters: {'best_score': 0.8598654694421188, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 2.1226993865030677, MAE: 1.1288343558282208, R2 Score: -0.3490408075395879
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 0.26229315447661045, MAE: 0.377396472392638, R2 Score: 0.833304625620986
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 0.26203913296457176, MAE: 0.3794163323095086, R2 Score: 0.8334660641119527
+Model Parameters: {'best_score': 0.7941608948244545, 'best_params': {'alpha': 0.1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 0.2523529993602562, MAE: 0.37532166957987895, R2 Score: 0.8396219002056488
+Model Parameters: {'best_score': 0.7884206277705699, 'best_params': {'C': 1, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 1.086560582822086, MAE: 0.8964723926380368, R2 Score: 0.30945729978950376
+Model Parameters: {'best_score': 0.2485249656418061, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 0.4052731151972173, MAE: 0.5116273817533479, R2 Score: 0.7424364589371174
+Model Parameters: {'best_score': 0.6607659010654782, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset
+Performance Measures: RMSE: 0.17973267918495484, MAE: 0.32746245832448323, R2 Score: 0.8857743492975872
+Model Parameters: {'best_score': 0.8599812342579398, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.7239263803680982, MAE: 0.6012269938650306, R2 Score: 0.5399224991627996
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.3039373711264308, MAE: 0.41659007608530496, R2 Score: 0.8068384439205343
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.30575443439905103, MAE: 0.4202689921454069, R2 Score: 0.8056836442723918
+Model Parameters: {'best_score': 0.7612366973984699, 'best_params': {'alpha': 0.001}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.40302645229910045, MAE: 0.4960894437008228, R2 Score: 0.743864282372511
+Model Parameters: {'best_score': 0.698539528211521, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.47076303680981596, MAE: 0.5467791411042945, R2 Score: 0.7008155976414868
+Model Parameters: {'best_score': 0.6522854752797331, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.6238407931123009, MAE: 0.6546658432002965, R2 Score: 0.6035299710041447
+Model Parameters: {'best_score': 0.5449945220961694, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset
+Performance Measures: RMSE: 0.23848126142722606, MAE: 0.3763931438130731, R2 Score: 0.8484378167043015
+Model Parameters: {'best_score': 0.8167598239038834, 'best_params': {'learning_rate': 0.1, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.9570552147239264, MAE: 0.6993865030674846, R2 Score: 0.39176194804573494
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.40558953535245973, MAE: 0.46829167465490795, R2 Score: 0.7422353641874491
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.4041403814076163, MAE: 0.46739136209453, R2 Score: 0.7431563461316806
+Model Parameters: {'best_score': 0.7213404847049465, 'best_params': {'alpha': 1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.3970594694826958, MAE: 0.4655027519326294, R2 Score: 0.747656483646229
+Model Parameters: {'best_score': 0.7305594811913412, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.4276265337423313, MAE: 0.5283742331288344, R2 Score: 0.7282301733004831
+Model Parameters: {'best_score': 0.6671084770347383, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1128.592099330093, MAE: 25.448137657982723, R2 Score: -716.2550228938728
+Model Parameters: {'best_score': -1026037.2268598747, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.3116873405729454, MAE: 0.44908483693278495, R2 Score: 0.8019130997540403
+Model Parameters: {'best_score': 0.7300225508590972, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 2.085889570552147, MAE: 1.0797546012269938, R2 Score: -0.3256470363105777
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.4056893214126306, MAE: 0.46810295245398775, R2 Score: 0.7421719470742911
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.4048485896756942, MAE: 0.4691292116663321, R2 Score: 0.7427062579750868
+Model Parameters: {'best_score': 0.7205318778889527, 'best_params': {'alpha': 0.1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.4298296328282142, MAE: 0.48357613730279464, R2 Score: 0.7268300360088785
+Model Parameters: {'best_score': 0.7051505799943996, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.189513036809816, MAE: 0.9363496932515337, R2 Score: 0.2440278458833659
+Model Parameters: {'best_score': 0.21502402897561396, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.5735069572916071, MAE: 0.6057703362749636, R2 Score: 0.6355186731980885
+Model Parameters: {'best_score': 0.5670105785948785, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.31174871291133804, MAE: 0.44913383278164964, R2 Score: 0.8018740957436411
+Model Parameters: {'best_score': 0.7307924479071646, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.9693251533742331, MAE: 0.7361963190184049, R2 Score: 0.3839640243027316
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.3044466345308555, MAE: 0.44228359591024763, R2 Score: 0.8065147913493206
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.33523621059245134, MAE: 0.46441938080261685, R2 Score: 0.7869470679033909
+Model Parameters: {'best_score': 0.7291261835623418, 'best_params': {'alpha': 0.001}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.3869330624026331, MAE: 0.4959138999258523, R2 Score: 0.7540921270876055
+Model Parameters: {'best_score': 0.6886121904801509, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.5509010736196319, MAE: 0.6004601226993865, R2 Score: 0.6498854081949959
+Model Parameters: {'best_score': 0.5730110968527478, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.8017308615709368, MAE: 0.7466741794157454, R2 Score: 0.49047535614317983
+Model Parameters: {'best_score': 0.4285712214042257, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: RMSE: 0.2948352323071773, MAE: 0.43624902354520234, R2 Score: 0.8126231333500121
+Model Parameters: {'best_score': 0.7456285802470279, 'best_params': {'learning_rate': 0.1, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.48466257668711654, MAE: 0.43558282208588955, R2 Score: 0.6919820121513658
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.2684687147026396, MAE: 0.37896207642659063, R2 Score: 0.8293798669823845
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.26799561770938213, MAE: 0.37883479596657116, R2 Score: 0.8296805346859165
+Model Parameters: {'best_score': 0.7906784482035633, 'best_params': {'alpha': 1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.1990520268085802, MAE: 0.3460593983465542, R2 Score: 0.8734963091355985
+Model Parameters: {'best_score': 0.8304404387386347, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.2540260736196319, MAE: 0.38496932515337423, R2 Score: 0.8385586100081328
+Model Parameters: {'best_score': 0.7912714060900803, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.3920137544811384, MAE: 0.9526490340468349, R2 Score: 0.11533240580755455
+Model Parameters: {'best_score': 0.406190413352181, 'best_params': {'alpha': 1e-05, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.18055195833719978, MAE: 0.32674784606056223, R2 Score: 0.885253672174782
+Model Parameters: {'best_score': 0.8606367999916523, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.7852760736196318, MAE: 1.0245398773006136, R2 Score: -0.1345979046069945
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.2684687147026394, MAE: 0.37896207642659074, R2 Score: 0.8293798669823846
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.2679756687297378, MAE: 0.3796247826814561, R2 Score: 0.8296932128766109
+Model Parameters: {'best_score': 0.7908956437138042, 'best_params': {'alpha': 0.1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.2688957221565263, MAE: 0.3840661271628778, R2 Score: 0.8291084905999917
+Model Parameters: {'best_score': 0.7873003782721997, 'best_params': {'C': 1, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.049271472392638, MAE: 0.852760736196319, R2 Score: 0.33315567741472507
+Model Parameters: {'best_score': 0.29296963834993706, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.4354622027959411, MAE: 0.5372748813694984, R2 Score: 0.7232503643954131
+Model Parameters: {'best_score': 0.616984207685393, 'best_params': {'alpha': 0.001, 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.18055673186303714, MAE: 0.3267507969654454, R2 Score: 0.8852506384521591
+Model Parameters: {'best_score': 0.8606445785458797, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.754601226993865, MAE: 0.6073619631901841, R2 Score: 0.5204276898052911
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.4857181841905944, MAE: 0.5362682539817264, R2 Score: 0.6913111410859707
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.47095459363251174, MAE: 0.5400800007773742, R2 Score: 0.7006938573835764
+Model Parameters: {'best_score': 0.6509550203243468, 'best_params': {'alpha': 0.1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.4648402389319846, MAE: 0.5276130858050724, R2 Score: 0.7045797180265057
+Model Parameters: {'best_score': 0.6555209893987779, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.47937968643490114, MAE: 0.5531697341513293, R2 Score: 0.6953394515407145
+Model Parameters: {'best_score': 0.6287337445475214, 'best_params': {'n_neighbors': 6}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.8629153277351046, MAE: 0.7743272252804051, R2 Score: 0.4515907443287088
+Model Parameters: {'best_score': 0.3853697996940279, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Performance Measures: RMSE: 0.23007848244426404, MAE: 0.3730395676058071, R2 Score: 0.8537780414279852
+Model Parameters: {'best_score': 0.8032983828435368, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.558282208588957, MAE: 0.4723926380368098, R2 Score: 0.6451944696933454
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.2625521014621653, MAE: 0.37920506015145705, R2 Score: 0.8331400568399686
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.2618005920335207, MAE: 0.37881635794525326, R2 Score: 0.8336176642171312
+Model Parameters: {'best_score': 0.7940366842584472, 'best_params': {'alpha': 1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.19670276055489302, MAE: 0.3513280638445079, R2 Score: 0.874989340162107
+Model Parameters: {'best_score': 0.8321668998444098, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.24587806748466257, MAE: 0.38726993865030673, R2 Score: 0.8437369187437209
+Model Parameters: {'best_score': 0.7940772824632099, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.8779182553374172e+16, MAE: 133481261.11297022, R2 Score: -1.8290056481380628e+16
+Model Parameters: {'best_score': -8588882774660686.0, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Basic Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.17977462960464705, MAE: 0.3274884814860388, R2 Score: 0.8857476885144269
+Model Parameters: {'best_score': 0.8597348590251587, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 2.1226993865030677, MAE: 1.1288343558282208, R2 Score: -0.3490408075395879
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.26229315447661045, MAE: 0.377396472392638, R2 Score: 0.833304625620986
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.26203913296457176, MAE: 0.3794163323095086, R2 Score: 0.8334660641119527
+Model Parameters: {'best_score': 0.7941608948244545, 'best_params': {'alpha': 0.1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.2523529993602562, MAE: 0.37532166957987895, R2 Score: 0.8396219002056488
+Model Parameters: {'best_score': 0.7884206277705699, 'best_params': {'C': 1, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.086560582822086, MAE: 0.8964723926380368, R2 Score: 0.30945729978950376
+Model Parameters: {'best_score': 0.2485249656418061, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.41029004718371004, MAE: 0.5145850101089781, R2 Score: 0.7392480442131752
+Model Parameters: {'best_score': 0.6640010192585167, 'best_params': {'alpha': 1e-05, 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.1797326791849548, MAE: 0.3274624583244832, R2 Score: 0.8857743492975872
+Model Parameters: {'best_score': 0.8608297499858211, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.7239263803680982, MAE: 0.6012269938650306, R2 Score: 0.5399224991627996
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.3039373711264308, MAE: 0.41659007608530496, R2 Score: 0.8068384439205343
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.30575443439905103, MAE: 0.4202689921454069, R2 Score: 0.8056836442723918
+Model Parameters: {'best_score': 0.7612366973984699, 'best_params': {'alpha': 0.001}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.40302645229910045, MAE: 0.4960894437008228, R2 Score: 0.743864282372511
+Model Parameters: {'best_score': 0.698539528211521, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.47076303680981596, MAE: 0.5467791411042945, R2 Score: 0.7008155976414868
+Model Parameters: {'best_score': 0.6522854752797331, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.6184956184309838, MAE: 0.652086925488232, R2 Score: 0.606926994065617
+Model Parameters: {'best_score': 0.5449239874398222, 'best_params': {'alpha': 0.0001, 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: Normalized Dataset + K Best Columns using mutual_info_regression
+Performance Measures: RMSE: 0.2382470883744714, MAE: 0.3746695904578795, R2 Score: 0.8485866408883573
+Model Parameters: {'best_score': 0.8174114201484184, 'best_params': {'learning_rate': 0.1, 'loss': 'squared_error'}}
+
+Mission: 3
+Algorithm: TrivialRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 1.5736184111209708, MAE: 1.0585346764624202, R2 Score: -8.294419636145633e-05
+Model Parameters: None
+
+Mission: 3
+Algorithm: OneNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.5521472392638037, MAE: 0.4662576687116564, R2 Score: 0.6490934315648471
+Model Parameters: None
+
+Mission: 3
+Algorithm: LinearRegressionModel
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.25772848064570025, MAE: 0.38101427909327623, R2 Score: 0.8362056163642633
+Model Parameters: None
+
+Mission: 3
+Algorithm: RidgeCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.25762883340556303, MAE: 0.38093548151119533, R2 Score: 0.8362689452530162
+Model Parameters: {'best_score': 0.7927910181999736, 'best_params': {'alpha': 1}}
+
+Mission: 3
+Algorithm: SVMRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.19751018161180448, MAE: 0.35076659859378373, R2 Score: 0.8744761992239384
+Model Parameters: {'best_score': 0.8328530500907311, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: KNearestNeighbor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.24213957055214724, MAE: 0.38190184049079756, R2 Score: 0.8461128486341674
+Model Parameters: {'best_score': 0.7942548539868103, 'best_params': {'n_neighbors': 8}}
+
+Mission: 3
+Algorithm: SGDCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.25769494269074494, MAE: 0.3821802626314948, R2 Score: 0.8362269307671051
+Model Parameters: {'best_score': 0.797109504255143, 'best_params': {'alpha': 0.0001, 'penalty': 'l2'}}
+
+Mission: 3
+Algorithm: GradientBoostingCVRegressor
+Dataset: PCA Dataset
+Performance Measures: RMSE: 0.20388580757632174, MAE: 0.35014118964433794, R2 Score: 0.8704242926494931
+Model Parameters: {'best_score': 0.8014466053135824, 'best_params': {'learning_rate': 0.1, 'loss': 'squared_error'}}
+

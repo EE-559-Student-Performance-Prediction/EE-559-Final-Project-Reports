@@ -1,0 +1,54 @@
+Mission: 1
+RMSE: 1.0262816199589926
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Algorithm: LinearRegressionModel
+Model Parameters: None
+
+Mission: 1
+MAE: 0.8139093150859733
+Dataset: Standardized Dataset + K Best Columns using f_regression
+Algorithm: SGDCVRegressor
+Model Parameters: {'best_score': 0.15008197955178393, 'best_params': {'alpha': 0.001, 'penalty': 'l2'}}
+
+Mission: 1
+R2 Score: 0.3031974762166393
+Dataset: Normalized Dataset + K Best Columns using f_regression
+Algorithm: LinearRegressionModel
+Model Parameters: None
+
+Mission: 2
+RMSE: 1.0757757879120797
+Dataset: Standardized Dataset
+Algorithm: SVMRegressor
+Model Parameters: {'best_score': 0.22865158334994976, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+MAE: 0.8468140323368989
+Dataset: Standardized Dataset
+Algorithm: SVMRegressor
+Model Parameters: {'best_score': 0.22865158334994976, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+R2 Score: 0.31631136896531475
+Dataset: Standardized Dataset
+Algorithm: SVMRegressor
+Model Parameters: {'best_score': 0.22865158334994976, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+RMSE: 0.1797326791849548
+Dataset: Standardized Dataset + K Best Columns using mutual_info_regression
+Algorithm: GradientBoostingCVRegressor
+Model Parameters: {'best_score': 0.8608297499858211, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+MAE: 0.32674784606056223
+Dataset: Basic Dataset + K Best Columns using f_regression
+Algorithm: GradientBoostingCVRegressor
+Model Parameters: {'best_score': 0.8606367999916523, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+
+Mission: 3
+R2 Score: 0.8857743492975872
+Dataset: Standardized Dataset
+Algorithm: GradientBoostingCVRegressor
+Model Parameters: {'best_score': 0.8599812342579398, 'best_params': {'learning_rate': 0.03, 'loss': 'squared_error'}}
+

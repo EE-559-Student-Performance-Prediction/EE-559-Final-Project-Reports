@@ -1,0 +1,2016 @@
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.20445817245817244
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.24932952755720525
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23445949647029893
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.336025641025641
+Model Parameters: {'best_score': 0.3786240269303598, 'standard_deviation': 0.12490683874406672, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.4110429447852761, F1 Score: 0.33054088930310677
+Model Parameters: {'best_score': 0.3806648432568904, 'standard_deviation': 0.1271394563037419, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.26590310559006214
+Model Parameters: {'best_score': 0.3580265095729013, 'standard_deviation': 0.068234143083689, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.275945165945166
+Model Parameters: {'best_score': 0.35594361455922574, 'standard_deviation': 0.09416130891238046, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.18977645406817106
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.2248478520800686
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23445949647029893
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.336025641025641
+Model Parameters: {'best_score': 0.3786240269303598, 'standard_deviation': 0.12490683874406672, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.3037855364483817
+Model Parameters: {'best_score': 0.36627393225331367, 'standard_deviation': 0.028763606752833477, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.27403779795084143
+Model Parameters: {'best_score': 0.35602777193351565, 'standard_deviation': 0.05607584631564399, 'best_params': {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.2672313695631484
+Model Parameters: {'best_score': 0.3292657269093204, 'standard_deviation': 0.11926706361479461, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.21314521408894233
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.24594824986442987
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.21335463690861153
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2948271138144556
+Model Parameters: {'best_score': 0.364317273301073, 'standard_deviation': 0.06426979164869685, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.2955714725689944
+Model Parameters: {'best_score': 0.38689248895434464, 'standard_deviation': 0.05147143719305513, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2980075999392005
+Model Parameters: {'best_score': 0.34986324426677895, 'standard_deviation': 0.05974260812217327, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.1952359801433937
+Model Parameters: {'best_score': 0.3601935619608668, 'standard_deviation': 0.0840752808098889, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.22816355334163557
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.23568544701897745
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23946834726862337
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.31073952928791637
+Model Parameters: {'best_score': 0.3744582369030086, 'standard_deviation': 0.12235666087950944, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.35488374154434765
+Model Parameters: {'best_score': 0.3786029875867873, 'standard_deviation': 0.06947138999521009, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.30262505551293956
+Model Parameters: {'best_score': 0.3499474016410688, 'standard_deviation': 0.12230050074348582, 'best_params': {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.24910759175465058
+Model Parameters: {'best_score': 0.3375341889333052, 'standard_deviation': 0.04975786517795088, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.22699386503067484, F1 Score: 0.18135979335979335
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.22085889570552147, F1 Score: 0.20546322426498137
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23946834726862337
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.31073952928791637
+Model Parameters: {'best_score': 0.3744582369030086, 'standard_deviation': 0.12235666087950944, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.3194081569253983
+Model Parameters: {'best_score': 0.36835682726698926, 'standard_deviation': 0.08357272195945584, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2972610965356858
+Model Parameters: {'best_score': 0.3580475489164738, 'standard_deviation': 0.10731612945970918, 'best_params': {'C': 1, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.24955775777800246
+Model Parameters: {'best_score': 0.33332632021880915, 'standard_deviation': 0.08886891212927832, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.20469832639355437
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23987548482859414
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.228376386689824
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.3432052753498892
+Model Parameters: {'best_score': 0.3620871028823901, 'standard_deviation': 0.04768983881755898, 'best_params': {'criterion': 'entropy', 'max_depth': 40, 'min_samples_split': 15}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.31244461420932007
+Model Parameters: {'best_score': 0.37866610561750474, 'standard_deviation': 0.08290565014353175, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.3064220127698388
+Model Parameters: {'best_score': 0.3457816116137177, 'standard_deviation': 0.09493160718888435, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.29133116883116883
+Model Parameters: {'best_score': 0.33549337260677464, 'standard_deviation': 0.0701599996746246, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.16498376623376623
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.2601336066932748
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.22933530502351215
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.30244430903560354
+Model Parameters: {'best_score': 0.3828318956448559, 'standard_deviation': 0.10443709751029277, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 40}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.39263803680981596, F1 Score: 0.31591927697737493
+Model Parameters: {'best_score': 0.374563433620871, 'standard_deviation': 0.08429964830505977, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2480110675232626
+Model Parameters: {'best_score': 0.36419103723963814, 'standard_deviation': 0.035553876185070464, 'best_params': {'C': 100, 'gamma': 0.0001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.2687061196193357
+Model Parameters: {'best_score': 0.3271828318956449, 'standard_deviation': 0.02139998088557217, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.218587377534746
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.23899377446330639
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.22933530502351215
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.30244430903560354
+Model Parameters: {'best_score': 0.3828318956448559, 'standard_deviation': 0.10443709751029277, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 40}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.44171779141104295, F1 Score: 0.3533301038083435
+Model Parameters: {'best_score': 0.3725015779507679, 'standard_deviation': 0.04969526799928839, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.32004357298474945
+Model Parameters: {'best_score': 0.3703766042499474, 'standard_deviation': 0.0984988636826522, 'best_params': {'C': 1, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.25518648732166077
+Model Parameters: {'best_score': 0.3394698085419735, 'standard_deviation': 0.08074131471050094, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.20394758744789546
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.25893491838015137
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.2267795960992367
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.26750673395762226
+Model Parameters: {'best_score': 0.39101620029455086, 'standard_deviation': 0.049005323930687274, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3987730061349693, F1 Score: 0.31615440222447394
+Model Parameters: {'best_score': 0.3744582369030086, 'standard_deviation': 0.05690084148424487, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.26120054831202777
+Model Parameters: {'best_score': 0.36425415527035554, 'standard_deviation': 0.0544790797793513, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3987730061349693, F1 Score: 0.2963732021149683
+Model Parameters: {'best_score': 0.3458657689880076, 'standard_deviation': 0.13477655697393373, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.17550315317757176
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.24932952755720525
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23445949647029893
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.336025641025641
+Model Parameters: {'best_score': 0.3765832106038292, 'standard_deviation': 0.12590660423691666, 'best_params': {'criterion': 'entropy', 'max_depth': 30, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.4110429447852761, F1 Score: 0.3346917450365726
+Model Parameters: {'best_score': 0.3786240269303598, 'standard_deviation': 0.06991831933126591, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.26590310559006214
+Model Parameters: {'best_score': 0.3580265095729013, 'standard_deviation': 0.068234143083689, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.18998733953197108
+Model Parameters: {'best_score': 0.341636860929939, 'standard_deviation': 0.1212238412107189, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.2118609168609169
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.2248478520800686
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23445949647029893
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.336025641025641
+Model Parameters: {'best_score': 0.3765832106038292, 'standard_deviation': 0.12590660423691666, 'best_params': {'criterion': 'entropy', 'max_depth': 40, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.2905594165594166
+Model Parameters: {'best_score': 0.37658321060382915, 'standard_deviation': 0.10611844458805637, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.27403779795084143
+Model Parameters: {'best_score': 0.35602777193351565, 'standard_deviation': 0.05607584631564399, 'best_params': {'C': 100, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3374233128834356, F1 Score: 0.17104072398190046
+Model Parameters: {'best_score': 0.32509993688196925, 'standard_deviation': 0.0870015500075295, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.19597106826920493
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.24594824986442987
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.21335463690861153
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2948271138144556
+Model Parameters: {'best_score': 0.364317273301073, 'standard_deviation': 0.06426979164869685, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3558282208588957, F1 Score: 0.3124527324527325
+Model Parameters: {'best_score': 0.370271407532085, 'standard_deviation': 0.06385520841099497, 'best_params': {'criterion': 'entropy', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2980075999392005
+Model Parameters: {'best_score': 0.34986324426677895, 'standard_deviation': 0.05974260812217327, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.2266548410938655
+Model Parameters: {'best_score': 0.33349463496738896, 'standard_deviation': 0.14783018348684995, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.15807059860663866
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.26265207872823265
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.17493956789479176
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.3048244438488341
+Model Parameters: {'best_score': 0.3827687776141384, 'standard_deviation': 0.12109728572634672, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.4049079754601227, F1 Score: 0.33410601997681466
+Model Parameters: {'best_score': 0.38485167262781406, 'standard_deviation': 0.08020352307065816, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.24715269804822046
+Model Parameters: {'best_score': 0.3724805386071955, 'standard_deviation': 0.03736776957301143, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.21687074829931968
+Model Parameters: {'best_score': 0.3580896276036188, 'standard_deviation': 0.06302258018716282, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.21717883411087296
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.26193633897269425
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.17493956789479176
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.3048244438488341
+Model Parameters: {'best_score': 0.3827687776141384, 'standard_deviation': 0.12109728572634672, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 35}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3803680981595092, F1 Score: 0.33322076978939724
+Model Parameters: {'best_score': 0.3930149379339365, 'standard_deviation': 0.0696622800843055, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.25337773191662344
+Model Parameters: {'best_score': 0.36229749631811486, 'standard_deviation': 0.14013933877552007, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3558282208588957, F1 Score: 0.20907279693486588
+Model Parameters: {'best_score': 0.331348621922996, 'standard_deviation': 0.10463340868580616, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.17091842974195912
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.2590542808041534
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.20245398773006135, F1 Score: 0.1655418546365915
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2988110026883582
+Model Parameters: {'best_score': 0.36421207658321053, 'standard_deviation': 0.07467661822239294, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 40}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.26165694359432823
+Model Parameters: {'best_score': 0.38270565958342095, 'standard_deviation': 0.03233877830362881, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.2516586502702435
+Model Parameters: {'best_score': 0.3724384599200505, 'standard_deviation': 0.04615508363887725, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3558282208588957, F1 Score: 0.25420857416885223
+Model Parameters: {'best_score': 0.3724384599200505, 'standard_deviation': 0.08503993362482878, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 1
+Algorithm: TrivialClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.21992429945918318
+Model Parameters: None
+
+Mission: 1
+Algorithm: NearestMeansClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.24165057882562496
+Model Parameters: None
+
+Mission: 1
+Algorithm: NaiveBayesClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.30464260356232986
+Model Parameters: None
+
+Mission: 1
+Algorithm: DecisionTreeCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.24594886298919022
+Model Parameters: {'best_score': 0.31285503892278566, 'standard_deviation': 0.07801937824499516, 'best_params': {'criterion': 'entropy', 'max_depth': 30, 'min_samples_split': 5}}
+
+Mission: 1
+Algorithm: RandomForestCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.36809815950920244, F1 Score: 0.2812677889257378
+Model Parameters: {'best_score': 0.33334735956238165, 'standard_deviation': 0.10495089308423253, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 1
+Algorithm: SVMClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.2688842234877636
+Model Parameters: {'best_score': 0.34780138859667575, 'standard_deviation': 0.08681929419096862, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 1
+Algorithm: SGDCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.23534802706504993
+Model Parameters: {'best_score': 0.34384599200504945, 'standard_deviation': 0.11146449634886349, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.2456867344639005
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23816275362667114
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.2510797139368568
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.3677048893859434
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.31104052936311005
+Model Parameters: {'best_score': 0.39503471491689457, 'standard_deviation': 0.041265099113943174, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.2876640696854949
+Model Parameters: {'best_score': 0.3971596886177151, 'standard_deviation': 0.05094260738524437, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.23375627808617497
+Model Parameters: {'best_score': 0.3312013465179886, 'standard_deviation': 0.13742422510451893, 'best_params': {'loss': 'perceptron', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.2154511148316458
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.3262080385368057
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.24364055556885175
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.3677048893859434
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.37423312883435583, F1 Score: 0.3367318463009582
+Model Parameters: {'best_score': 0.38687144961077213, 'standard_deviation': 0.039642857976821204, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.29441165372189837
+Model Parameters: {'best_score': 0.3497580475489165, 'standard_deviation': 0.1344603625486209, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.3496932515337423, F1 Score: 0.24837270341207351
+Model Parameters: {'best_score': 0.31489585524931624, 'standard_deviation': 0.09549058796353191, 'best_params': {'loss': 'perceptron', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.1901840490797546, F1 Score: 0.1714899976592182
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.28862118739853954
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.2752614379084967
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.2775686342722965
+Model Parameters: {'best_score': 0.3436145592257522, 'standard_deviation': 0.08693110514426182, 'best_params': {'criterion': 'gini', 'max_depth': 30, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.2091536690433749
+Model Parameters: {'best_score': 0.4115085209341468, 'standard_deviation': 0.08001662612635263, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.3374233128834356, F1 Score: 0.3030542591345843
+Model Parameters: {'best_score': 0.37647801388596674, 'standard_deviation': 0.052613908915400236, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.17213302882594222
+Model Parameters: {'best_score': 0.36010940458657686, 'standard_deviation': 0.05889128368127161, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.24539877300613497, F1 Score: 0.2130530181749694
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.2803486477680026
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.2350126153747884
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.3309334299309808
+Model Parameters: {'best_score': 0.372375341889333, 'standard_deviation': 0.05431581090969101, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 15}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.26787246963562755
+Model Parameters: {'best_score': 0.40749000631180304, 'standard_deviation': 0.10672084201877718, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.294478527607362, F1 Score: 0.14786324786324787
+Model Parameters: {'best_score': 0.3806858826004628, 'standard_deviation': 0.04002618857470564, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.20907924984875983
+Model Parameters: {'best_score': 0.3291394908478856, 'standard_deviation': 0.12063853196428523, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.22699386503067484, F1 Score: 0.17762329174093877
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.32165886939571153
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23536301800303133
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.3309334299309808
+Model Parameters: {'best_score': 0.3744582369030086, 'standard_deviation': 0.056900841484244895, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 15}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.2986697139104458
+Model Parameters: {'best_score': 0.4032190195665895, 'standard_deviation': 0.06363043291770319, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3496932515337423, F1 Score: 0.32493700647127005
+Model Parameters: {'best_score': 0.3477803492531033, 'standard_deviation': 0.11519143400440746, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.273974691974692
+Model Parameters: {'best_score': 0.33343151693667156, 'standard_deviation': 0.07812207165349164, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.194474402373562
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.33041484597822623
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.26383004581298825
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.294478527607362, F1 Score: 0.29784238013981257
+Model Parameters: {'best_score': 0.3478013885966758, 'standard_deviation': 0.1062011713289165, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 25}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.2934406588583645
+Model Parameters: {'best_score': 0.39713864927414266, 'standard_deviation': 0.041015475863461215, 'best_params': {'criterion': 'entropy', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.294478527607362, F1 Score: 0.14722222222222223
+Model Parameters: {'best_score': 0.372417420576478, 'standard_deviation': 0.050765176349872404, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.2258461422424359
+Model Parameters: {'best_score': 0.3683357879234168, 'standard_deviation': 0.06079745632097505, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.22085889570552147, F1 Score: 0.178080499701723
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.249198134791222
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23160079686395477
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.3004131235579082
+Model Parameters: {'best_score': 0.3723543025457606, 'standard_deviation': 0.09026654215697011, 'best_params': {'criterion': 'gini', 'max_depth': 20, 'min_samples_split': 10}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.3539306251981154
+Model Parameters: {'best_score': 0.3930780559646539, 'standard_deviation': 0.09635188771640261, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.14767080745341615
+Model Parameters: {'best_score': 0.3868083315800547, 'standard_deviation': 0.06662851520790877, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.27547325873558376
+Model Parameters: {'best_score': 0.35383968020197765, 'standard_deviation': 0.1003886364466245, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.1629459241323648
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.323972945387387
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.23523702394343565
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.3004131235579082
+Model Parameters: {'best_score': 0.37029244687565754, 'standard_deviation': 0.1260493745455985, 'best_params': {'criterion': 'gini', 'max_depth': 30, 'min_samples_split': 10}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.3534315148068673
+Model Parameters: {'best_score': 0.393035977277509, 'standard_deviation': 0.03667572192026937, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.3315199017449291
+Model Parameters: {'best_score': 0.38882810856301286, 'standard_deviation': 0.09046941221915018, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.2675317508684834
+Model Parameters: {'best_score': 0.331348621922996, 'standard_deviation': 0.08388683635244304, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.22558586326658614
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.27696507700811857
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.2814515687945053
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.3001492133086007
+Model Parameters: {'best_score': 0.32720387123921735, 'standard_deviation': 0.05530772440767602, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.2300556459417383
+Model Parameters: {'best_score': 0.4074900063118031, 'standard_deviation': 0.05046524158445445, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.17893545719632675
+Model Parameters: {'best_score': 0.3785819482432148, 'standard_deviation': 0.050496247950808065, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.2959607790256401
+Model Parameters: {'best_score': 0.3662739322533137, 'standard_deviation': 0.09021913886138591, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.20637889735510734
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.23816275362667114
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.2510797139368568
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.3677048893859434
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.28410286948680985
+Model Parameters: {'best_score': 0.40929938985903647, 'standard_deviation': 0.08890365263217198, 'best_params': {'criterion': 'entropy', 'min_samples_split': 5, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.2876640696854949
+Model Parameters: {'best_score': 0.3971596886177151, 'standard_deviation': 0.05094260738524437, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.2159677277909322
+Model Parameters: {'best_score': 0.3394277298548285, 'standard_deviation': 0.0479961982190385, 'best_params': {'loss': 'log', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.18767349636483807
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.3262080385368057
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.24364055556885175
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.3677048893859434
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3312883435582822, F1 Score: 0.30199271451017295
+Model Parameters: {'best_score': 0.39705449189985276, 'standard_deviation': 0.07168183090147731, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.29441165372189837
+Model Parameters: {'best_score': 0.3497580475489165, 'standard_deviation': 0.1344603625486209, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.19746627535784164
+Model Parameters: {'best_score': 0.331390700610141, 'standard_deviation': 0.06758738407237673, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.20006854256854253
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.28862118739853954
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.2752614379084967
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.2817702596380802
+Model Parameters: {'best_score': 0.34363559856932463, 'standard_deviation': 0.05013329025787137, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 20}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.21196040675577033
+Model Parameters: {'best_score': 0.3971176099305701, 'standard_deviation': 0.02767549513821326, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3374233128834356, F1 Score: 0.3030542591345843
+Model Parameters: {'best_score': 0.37647801388596674, 'standard_deviation': 0.052613908915400236, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.3374233128834356, F1 Score: 0.20914236972704714
+Model Parameters: {'best_score': 0.3374500315590154, 'standard_deviation': 0.051137361318954765, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.20468802861147356
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.27314842100480863
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.284464899291327
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.27183896993180995
+Model Parameters: {'best_score': 0.36206606353881765, 'standard_deviation': 0.07485541803638442, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 40}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3558282208588957, F1 Score: 0.3417570540851855
+Model Parameters: {'best_score': 0.3929097412160741, 'standard_deviation': 0.05434996343815266, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.15343035343035344
+Model Parameters: {'best_score': 0.3703555649063749, 'standard_deviation': 0.046434284080027255, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.16654068307383224
+Model Parameters: {'best_score': 0.32099726488533553, 'standard_deviation': 0.06713332441660098, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.20245398773006135, F1 Score: 0.16104208972779832
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.31901840490797545, F1 Score: 0.3237345667499721
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.26525757932650285
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2822085889570552, F1 Score: 0.24264823510591244
+Model Parameters: {'best_score': 0.36412791920892074, 'standard_deviation': 0.07517232328368392, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 40}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.34355828220858897, F1 Score: 0.3198903510511789
+Model Parameters: {'best_score': 0.401094045865769, 'standard_deviation': 0.07468633887251899, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.18867391342036374
+Model Parameters: {'best_score': 0.3683568272669892, 'standard_deviation': 0.04714871360764663, 'best_params': {'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.22056629103254205
+Model Parameters: {'best_score': 0.3312013465179886, 'standard_deviation': 0.07938338103622272, 'best_params': {'loss': 'hinge', 'penalty': 'l2'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.22270561461124072
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.27607361963190186, F1 Score: 0.27559144540668556
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.23408149439100295
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.261112508307119
+Model Parameters: {'best_score': 0.3497159688617715, 'standard_deviation': 0.08401561804055831, 'best_params': {'criterion': 'entropy', 'max_depth': 40, 'min_samples_split': 10}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.24175604310110083
+Model Parameters: {'best_score': 0.41346517988638753, 'standard_deviation': 0.06083792408798806, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2883435582822086, F1 Score: 0.15793169793169792
+Model Parameters: {'best_score': 0.3683147485798443, 'standard_deviation': 0.04770067888549672, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.26993865030674846, F1 Score: 0.258237734791141
+Model Parameters: {'best_score': 0.35386071954555015, 'standard_deviation': 0.07788836598989994, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 2
+Algorithm: TrivialClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.18015323807723127
+Model Parameters: None
+
+Mission: 2
+Algorithm: NearestMeansClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.25766871165644173, F1 Score: 0.24370910404242455
+Model Parameters: None
+
+Mission: 2
+Algorithm: NaiveBayesClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.2969251114956598
+Model Parameters: None
+
+Mission: 2
+Algorithm: DecisionTreeCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.26380368098159507, F1 Score: 0.21112305411415866
+Model Parameters: {'best_score': 0.2901535872080791, 'standard_deviation': 0.06745889451963245, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 2
+Algorithm: RandomForestCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.23717789557205618
+Model Parameters: {'best_score': 0.4135914159478224, 'standard_deviation': 0.07553066908996578, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 2
+Algorithm: SVMClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.3006134969325153, F1 Score: 0.16671422986221615
+Model Parameters: {'best_score': 0.37654113191668415, 'standard_deviation': 0.0496663284457414, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 2
+Algorithm: SGDCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.3067484662576687, F1 Score: 0.24145792993172974
+Model Parameters: {'best_score': 0.3292867662528929, 'standard_deviation': 0.08642376413944033, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.18358224105212056
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.6073619631901841, F1 Score: 0.6240222740222741
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.44785276073619634, F1 Score: 0.43410299003322256
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7229851370325877
+Model Parameters: {'best_score': 0.7529981064590785, 'standard_deviation': 0.06366159103365904, 'best_params': {'criterion': 'entropy', 'max_depth': 40, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.7177914110429447, F1 Score: 0.7071181223547518
+Model Parameters: {'best_score': 0.7283610351357039, 'standard_deviation': 0.05681626330534271, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.7423312883435583, F1 Score: 0.7379183434525899
+Model Parameters: {'best_score': 0.7201346517988638, 'standard_deviation': 0.07796598235439814, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset
+Performance Measures: Accuracy: 0.5153374233128835, F1 Score: 0.5279698502200424
+Model Parameters: {'best_score': 0.5041447506837786, 'standard_deviation': 0.09981234890932496, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.22085889570552147, F1 Score: 0.17785698341203787
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.4110429447852761, F1 Score: 0.41496187678480234
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.4049079754601227, F1 Score: 0.38465003465003467
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7229851370325877
+Model Parameters: {'best_score': 0.7529981064590785, 'standard_deviation': 0.06366159103365904, 'best_params': {'criterion': 'entropy', 'max_depth': 30, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.7300613496932515, F1 Score: 0.7171248689380799
+Model Parameters: {'best_score': 0.7344834841152956, 'standard_deviation': 0.11009090591798121, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.6809815950920245, F1 Score: 0.6794157171004747
+Model Parameters: {'best_score': 0.5904481380180938, 'standard_deviation': 0.044889578156809176, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset
+Performance Measures: Accuracy: 0.50920245398773, F1 Score: 0.47213548577325676
+Model Parameters: {'best_score': 0.49177361666316005, 'standard_deviation': 0.06032187843773416, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.1947442777275055
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.5460122699386503, F1 Score: 0.5497229295178434
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.48466257668711654, F1 Score: 0.5100124720165853
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.6809815950920245, F1 Score: 0.6829783408485979
+Model Parameters: {'best_score': 0.6667157584683358, 'standard_deviation': 0.03623813018964284, 'best_params': {'criterion': 'entropy', 'max_depth': 40, 'min_samples_split': 25}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.7177914110429447, F1 Score: 0.7080918529916611
+Model Parameters: {'best_score': 0.7221965074689669, 'standard_deviation': 0.05422870296999616, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.656441717791411, F1 Score: 0.6631598793363499
+Model Parameters: {'best_score': 0.6295392383757626, 'standard_deviation': 0.09524681630257263, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset
+Performance Measures: Accuracy: 0.5214723926380368, F1 Score: 0.5389433832018578
+Model Parameters: {'best_score': 0.5123080159899012, 'standard_deviation': 0.06434215162550558, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.22085889570552147, F1 Score: 0.1621381917058129
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.5153374233128835, F1 Score: 0.5164354279261112
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.32515337423312884, F1 Score: 0.31678381906985037
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.588957055214724, F1 Score: 0.5960628157192456
+Model Parameters: {'best_score': 0.5637492110246161, 'standard_deviation': 0.08772533371039504, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.588957055214724, F1 Score: 0.5863232462396111
+Model Parameters: {'best_score': 0.561687355354513, 'standard_deviation': 0.08972214190719395, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.5950920245398773, F1 Score: 0.5915079954338324
+Model Parameters: {'best_score': 0.5986114033242163, 'standard_deviation': 0.07859794158653348, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.4171779141104294, F1 Score: 0.41759702286018074
+Model Parameters: {'best_score': 0.4547443719755943, 'standard_deviation': 0.1346190787091497, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.20292263501303048
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.36341732470933696
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.3128834355828221, F1 Score: 0.3060718480314219
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.588957055214724, F1 Score: 0.5960628157192456
+Model Parameters: {'best_score': 0.5637492110246161, 'standard_deviation': 0.08772533371039504, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.5766871165644172, F1 Score: 0.569065893881772
+Model Parameters: {'best_score': 0.5740164106879866, 'standard_deviation': 0.07782618986414946, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.5950920245398773, F1 Score: 0.5841087666273852
+Model Parameters: {'best_score': 0.49587628865979383, 'standard_deviation': 0.013676803259197514, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.49693251533742333, F1 Score: 0.4766831014317403
+Model Parameters: {'best_score': 0.44851672627814015, 'standard_deviation': 0.07209021088209358, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.19631901840490798, F1 Score: 0.1635749521565757
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.50920245398773, F1 Score: 0.5172245586902475
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.4110429447852761, F1 Score: 0.4447303336623725
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.5398773006134969, F1 Score: 0.556731193455063
+Model Parameters: {'best_score': 0.5740164106879865, 'standard_deviation': 0.11188750605568869, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 35}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.6748466257668712, F1 Score: 0.6756484256484256
+Model Parameters: {'best_score': 0.6521986114033241, 'standard_deviation': 0.0376270058013353, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.6134969325153374, F1 Score: 0.6233441690189515
+Model Parameters: {'best_score': 0.5739532926572691, 'standard_deviation': 0.10484097222718876, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + Removed Correlated Columns
+Performance Measures: Accuracy: 0.48466257668711654, F1 Score: 0.5017377217377217
+Model Parameters: {'best_score': 0.4713023353671365, 'standard_deviation': 0.07983208625329281, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.1901840490797546, F1 Score: 0.15574865166045412
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.6073619631901841, F1 Score: 0.6205557993271904
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.44171779141104295, F1 Score: 0.42667595216114795
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7300613496932515, F1 Score: 0.727695522653506
+Model Parameters: {'best_score': 0.7241742057647801, 'standard_deviation': 0.0829857429172274, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7607361963190185, F1 Score: 0.7584502726049254
+Model Parameters: {'best_score': 0.7407111298127498, 'standard_deviation': 0.10409236441907523, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7423312883435583, F1 Score: 0.7441069092244905
+Model Parameters: {'best_score': 0.7221123500946771, 'standard_deviation': 0.07507262335400627, 'best_params': {'C': 0.01, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.5398773006134969, F1 Score: 0.5198243357796188
+Model Parameters: {'best_score': 0.44054281506417003, 'standard_deviation': 0.13472951680986317, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.2392638036809816, F1 Score: 0.17802917468552143
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.4233128834355828, F1 Score: 0.42700264950037925
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.38650306748466257, F1 Score: 0.362565196775723
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7300613496932515, F1 Score: 0.727695522653506
+Model Parameters: {'best_score': 0.7241742057647801, 'standard_deviation': 0.0829857429172274, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7300613496932515, F1 Score: 0.721787845291507
+Model Parameters: {'best_score': 0.7303808121186618, 'standard_deviation': 0.10031138925709508, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7423312883435583, F1 Score: 0.7402471763480166
+Model Parameters: {'best_score': 0.6337891857774037, 'standard_deviation': 0.10572276634917246, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.48466257668711654, F1 Score: 0.42789206917113887
+Model Parameters: {'best_score': 0.520618556701031, 'standard_deviation': 0.09358190282812547, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.19631901840490798, F1 Score: 0.18006698062492382
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.4662576687116564, F1 Score: 0.46518524874913486
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.4601226993865031, F1 Score: 0.49085714285714294
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.6871165644171779, F1 Score: 0.6761777353081702
+Model Parameters: {'best_score': 0.6379760151483274, 'standard_deviation': 0.08455466919888453, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 15}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.7055214723926381, F1 Score: 0.6897261374182216
+Model Parameters: {'best_score': 0.7242162844519251, 'standard_deviation': 0.058477809917234454, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.6319018404907976, F1 Score: 0.6402008097517558
+Model Parameters: {'best_score': 0.6069850620660635, 'standard_deviation': 0.09718118117839175, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using chi2
+Performance Measures: Accuracy: 0.49693251533742333, F1 Score: 0.4445516388373531
+Model Parameters: {'best_score': 0.520576478013886, 'standard_deviation': 0.09081547781224829, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2085889570552147, F1 Score: 0.16451507225700773
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.6073619631901841, F1 Score: 0.6240222740222741
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.44785276073619634, F1 Score: 0.43410299003322256
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7229851370325877
+Model Parameters: {'best_score': 0.7529981064590785, 'standard_deviation': 0.06366159103365904, 'best_params': {'criterion': 'entropy', 'max_depth': 30, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7484662576687117, F1 Score: 0.7364144911671149
+Model Parameters: {'best_score': 0.7344414054281506, 'standard_deviation': 0.06850865156822476, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7423312883435583, F1 Score: 0.7379183434525899
+Model Parameters: {'best_score': 0.7201346517988638, 'standard_deviation': 0.07796598235439814, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.48466257668711654, F1 Score: 0.45637508668643856
+Model Parameters: {'best_score': 0.5102461603197981, 'standard_deviation': 0.08790293137605369, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.19469720744957061
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.4110429447852761, F1 Score: 0.41496187678480234
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.4049079754601227, F1 Score: 0.38465003465003467
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7229851370325877
+Model Parameters: {'best_score': 0.7529981064590785, 'standard_deviation': 0.06366159103365904, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7484662576687117, F1 Score: 0.7323647337872968
+Model Parameters: {'best_score': 0.7366084578161163, 'standard_deviation': 0.06620976792984591, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.6809815950920245, F1 Score: 0.6794157171004747
+Model Parameters: {'best_score': 0.5904481380180938, 'standard_deviation': 0.044889578156809176, 'best_params': {'C': 100, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.588957055214724, F1 Score: 0.5849861834072361
+Model Parameters: {'best_score': 0.5020828950136755, 'standard_deviation': 0.12225103530930795, 'best_params': {'loss': 'perceptron', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.2085889570552147, F1 Score: 0.16619314326161
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.5460122699386503, F1 Score: 0.5497229295178434
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.48466257668711654, F1 Score: 0.5100124720165853
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.6809815950920245, F1 Score: 0.6829783408485979
+Model Parameters: {'best_score': 0.6667157584683358, 'standard_deviation': 0.04651292122097643, 'best_params': {'criterion': 'entropy', 'max_depth': 30, 'min_samples_split': 25}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.7791411042944786, F1 Score: 0.7754483054483055
+Model Parameters: {'best_score': 0.7180096780980433, 'standard_deviation': 0.07786576636843598, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.656441717791411, F1 Score: 0.6631598793363499
+Model Parameters: {'best_score': 0.6295392383757626, 'standard_deviation': 0.09524681630257263, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Performance Measures: Accuracy: 0.4233128834355828, F1 Score: 0.4022042466105953
+Model Parameters: {'best_score': 0.5184935830002104, 'standard_deviation': 0.09115514066972634, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2331288343558282, F1 Score: 0.20295051353874888
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.5950920245398773, F1 Score: 0.6089687954596676
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.5766871165644172, F1 Score: 0.5153423457730388
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.7177914110429447, F1 Score: 0.7196996570086748
+Model Parameters: {'best_score': 0.7509362507889753, 'standard_deviation': 0.06555767628854851, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.7484662576687117, F1 Score: 0.7427851176190743
+Model Parameters: {'best_score': 0.7386282347990742, 'standard_deviation': 0.1068871211904801, 'best_params': {'criterion': 'entropy', 'min_samples_split': 5, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.7361963190184049, F1 Score: 0.7332852931163777
+Model Parameters: {'best_score': 0.7201346517988638, 'standard_deviation': 0.07575351147068639, 'best_params': {'C': 10, 'gamma': 0.001, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Basic Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.5398773006134969, F1 Score: 0.5578947368421052
+Model Parameters: {'best_score': 0.5060803702924469, 'standard_deviation': 0.12293678587463684, 'best_params': {'loss': 'hinge', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.2147239263803681, F1 Score: 0.1924023274306635
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.3619631901840491, F1 Score: 0.3718596843875305
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.49693251533742333, F1 Score: 0.41741724455846396
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.7177914110429447, F1 Score: 0.7196996570086748
+Model Parameters: {'best_score': 0.7509362507889753, 'standard_deviation': 0.06555767628854851, 'best_params': {'criterion': 'entropy', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7161813624971519
+Model Parameters: {'best_score': 0.7447717231222386, 'standard_deviation': 0.10204219580406305, 'best_params': {'criterion': 'gini', 'min_samples_split': 5, 'n_estimators': 150}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.6932515337423313, F1 Score: 0.6906430627065376
+Model Parameters: {'best_score': 0.6461182411108772, 'standard_deviation': 0.07150356412377532, 'best_params': {'C': 10, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Standardized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.4785276073619632, F1 Score: 0.4765113866353726
+Model Parameters: {'best_score': 0.5041868293709236, 'standard_deviation': 0.1294190478632118, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.18404907975460122, F1 Score: 0.13580007772098168
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.5337423312883436, F1 Score: 0.5400932232580361
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.6257668711656442, F1 Score: 0.6324529760668375
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.6871165644171779, F1 Score: 0.6868534588655923
+Model Parameters: {'best_score': 0.6625920471281296, 'standard_deviation': 0.05161283325787216, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 25}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.754601226993865, F1 Score: 0.7477437101963502
+Model Parameters: {'best_score': 0.720008415737429, 'standard_deviation': 0.08539771848778618, 'best_params': {'criterion': 'entropy', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.6380368098159509, F1 Score: 0.635333819576698
+Model Parameters: {'best_score': 0.6234799074268883, 'standard_deviation': 0.07836927009916095, 'best_params': {'C': 100, 'kernel': 'linear'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: Normalized Dataset + K Best Columns using mutual_info_classif
+Performance Measures: Accuracy: 0.5153374233128835, F1 Score: 0.48454404330692985
+Model Parameters: {'best_score': 0.5288239006942982, 'standard_deviation': 0.08134954084167652, 'best_params': {'loss': 'log', 'penalty': 'l1'}}
+
+Mission: 3
+Algorithm: TrivialClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.25153374233128833, F1 Score: 0.1978237974066755
+Model Parameters: None
+
+Mission: 3
+Algorithm: NearestMeansClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.6073619631901841, F1 Score: 0.6240222740222741
+Model Parameters: None
+
+Mission: 3
+Algorithm: NaiveBayesClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.6012269938650306, F1 Score: 0.605252356973011
+Model Parameters: None
+
+Mission: 3
+Algorithm: DecisionTreeCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.5766871165644172, F1 Score: 0.5669612600546003
+Model Parameters: {'best_score': 0.635682726698927, 'standard_deviation': 0.08678482103476348, 'best_params': {'criterion': 'gini', 'max_depth': 10, 'min_samples_split': 45}}
+
+Mission: 3
+Algorithm: RandomForestCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.6625766871165644, F1 Score: 0.656027262791072
+Model Parameters: {'best_score': 0.6274773827056596, 'standard_deviation': 0.08631675259131316, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 100}}
+
+Mission: 3
+Algorithm: SVMClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.7239263803680982, F1 Score: 0.7229402479402479
+Model Parameters: {'best_score': 0.7201346517988639, 'standard_deviation': 0.05794734825435156, 'best_params': {'C': 1, 'gamma': 0.01, 'kernel': 'rbf'}}
+
+Mission: 3
+Algorithm: SGDCVClassifier
+Dataset: PCA Dataset
+Performance Measures: Accuracy: 0.5337423312883436, F1 Score: 0.5535165077266861
+Model Parameters: {'best_score': 0.5306543235851041, 'standard_deviation': 0.1863354116662523, 'best_params': {'loss': 'perceptron', 'penalty': 'l2'}}
+

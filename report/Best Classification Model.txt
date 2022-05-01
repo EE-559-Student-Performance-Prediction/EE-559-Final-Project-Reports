@@ -1,0 +1,36 @@
+Mission: 1
+Accuracy: 0.44171779141104295
+Dataset: Standardized Dataset + K Best Columns using chi2
+Algorithm: RandomForestCVClassifier
+Model Parameters: {'best_score': 0.3725015779507679, 'standard_deviation': 0.04969526799928839, 'best_params': {'criterion': 'gini', 'min_samples_split': 8, 'n_estimators': 150}}
+
+Mission: 1
+F1 Score: 0.35488374154434765
+Dataset: Basic Dataset + Removed Correlated Columns
+Algorithm: RandomForestCVClassifier
+Model Parameters: {'best_score': 0.3786029875867873, 'standard_deviation': 0.06947138999521009, 'best_params': {'criterion': 'entropy', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 2
+Accuracy: 0.38650306748466257
+Dataset: Basic Dataset
+Algorithm: DecisionTreeCVClassifier
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 2
+F1 Score: 0.3677048893859434
+Dataset: Basic Dataset
+Algorithm: DecisionTreeCVClassifier
+Model Parameters: {'best_score': 0.38058068588260047, 'standard_deviation': 0.07306832866409106, 'best_params': {'criterion': 'entropy', 'max_depth': 20, 'min_samples_split': 20}}
+
+Mission: 3
+Accuracy: 0.7791411042944786
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Algorithm: RandomForestCVClassifier
+Model Parameters: {'best_score': 0.7180096780980433, 'standard_deviation': 0.07786576636843598, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 100}}
+
+Mission: 3
+F1 Score: 0.7754483054483055
+Dataset: Normalized Dataset + K Best Columns using f_classif
+Algorithm: RandomForestCVClassifier
+Model Parameters: {'best_score': 0.7180096780980433, 'standard_deviation': 0.07786576636843598, 'best_params': {'criterion': 'gini', 'min_samples_split': 2, 'n_estimators': 100}}
+
